@@ -1,0 +1,47 @@
+Enter the type of player that will go first (Human, SmartComputer, or BelowAverageComputer)
+Human
+What will be player one's name?
+Me
+Enter the type of player that will go second (Human, SmartComputer, or BelowAverageComputer)
+SmartComputer
+What will be player two's name?
+Smart
+There are 61 marbles in the pile
+How many marbles would you like to remove?
+4
+Me took out 4 marbles
+There are 57 marbles remaining
+Smart took out 26 marbles
+There are 31 marbles remaining
+How many marbles would you like to remove?
+2
+Me took out 2 marbles
+There are 29 marbles remaining
+Smart took out 14 marbles
+There are 15 marbles remaining
+How many marbles would you like to remove?
+1
+Me took out 1 marbles
+There are 14 marbles remaining
+Smart took out 7 marbles
+There are 7 marbles remaining
+How many marbles would you like to remove?
+1
+Me took out 1 marbles
+There are 6 marbles remaining
+Smart took out 3 marbles
+There are 3 marbles remaining
+How many marbles would you like to remove?
+1
+Me took out 1 marbles
+There are 2 marbles remaining
+Smart took out 1 marbles
+There are 1 marbles remaining
+How many marbles would you like to remove?
+1
+Please input an appropriate amount to remove
+Me took out 1 marbles
+There are 1 marbles remaining
+Smart took out 1 marbles
+There are 0 marbles remaining
+The winner is Smart
